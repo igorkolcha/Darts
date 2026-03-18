@@ -1,4 +1,4 @@
-# 🎯 Darts Score Tracker
+# 🎯 Darts
 
 Простое приложение на C# Windows Forms для подсчёта счёта в игре в дартс по правилам **501** для двух игроков.
 
@@ -44,7 +44,7 @@
 ### Инструкция
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-юзернейм/darts-score-tracker.git
+   git clone https://github.com/ваш-юзернейм/darts.git
    ```
 2. Откройте файл `Darts.sln` в Visual Studio
 3. Соберите проект: `Ctrl + Shift + B` или через меню **Build → Build Solution**
