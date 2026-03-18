@@ -1,0 +1,16 @@
+D:\Cod\Darts\Darts\bin\Debug\net10.0-windows\Darts.exe
+D:\Cod\Darts\Darts\bin\Debug\net10.0-windows\Darts.deps.json
+D:\Cod\Darts\Darts\bin\Debug\net10.0-windows\Darts.runtimeconfig.json
+D:\Cod\Darts\Darts\bin\Debug\net10.0-windows\Darts.dll
+D:\Cod\Darts\Darts\bin\Debug\net10.0-windows\Darts.pdb
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.Form1.resources
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.csproj.GenerateResource.cache
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.AssemblyInfoInputs.cache
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.AssemblyInfo.cs
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.csproj.CoreCompileInputs.cache
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.dll
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\refint\Darts.dll
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.pdb
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\Darts.genruntimeconfig.cache
+D:\Cod\Darts\Darts\obj\Debug\net10.0-windows\ref\Darts.dll
